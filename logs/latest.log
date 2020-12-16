@@ -1,0 +1,247 @@
+[01:18:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:18:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:18:58] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[01:18:58] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
+[01:18:58] [main/INFO] [FML]: Searching C:\Users\Admin\Desktop\New folder (7)\.\mods for mods
+[01:18:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:18:58] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:18:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_20.28.2_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:18:58] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[01:18:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:18:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:18:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:18:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:18:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:19:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:19:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:19:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:19:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:19:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:19:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:19:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:19:01] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.entity.player.EntityPlayer
+[01:19:02] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.server.management.PlayerList
+[01:19:02] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:19:07] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[01:19:07] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:19:08] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:19:08] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:19:09] [Server thread/INFO] [FML]: Searching C:\Users\Admin\Desktop\New folder (7)\.\mods for mods
+[01:19:10] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[01:19:12] [Server thread/INFO] [FML]: Forge Mod Loader has identified 25 mods to load
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[01:19:13] [Server thread/WARN] [FML]: Missing English translation for xaerominimap: assets/xaerominimap/lang/en_us.lang
+[01:19:14] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, backpack, baubles, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, forestry, ic2, inventorytweaks, jei, nei, thaumcraft, twilightforest, xaerominimap] at CLIENT
+[01:19:14] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, backpack, baubles, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, forestry, ic2, inventorytweaks, jei, nei, thaumcraft, twilightforest, xaerominimap] at SERVER
+[01:19:15] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
+[01:19:15] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.world.chunk.Chunk
+[01:19:18] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:19:18] [Server thread/INFO] [FML]: Found 1527 ObjectHolder annotations
+[01:19:18] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:19:18] [Server thread/INFO] [FML]: Found 2 ItemStackHolder annotations
+[01:19:19] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:19:19] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[01:19:19] [Server thread/INFO] [BuildCraft]: 
+[01:19:19] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.7
+[01:19:19] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[01:19:19] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[01:19:19] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[01:19:19] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[01:19:19] [Server thread/INFO] [BuildCraft]:   Commit 74463a28c1784cc28a716dfd5c989df012b34b91
+[01:19:19] [Server thread/INFO] [BuildCraft]:     fix BCBuildersConfig clamping propQuarryMaxBlockMineRate as an integer.
+[01:19:19] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[01:19:19] [Server thread/INFO] [BuildCraft]: 
+[01:19:19] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - lib
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - core
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - builders
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - energy
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - factory
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - robotics
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - silicon
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - transport
+[01:19:19] [Server thread/INFO] [BuildCraft]:   - compat
+[01:19:19] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[01:19:19] [Server thread/INFO] [BuildCraft]: 
+[01:19:20] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[01:19:20] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[01:19:20] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:19:23] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[01:19:23] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[01:19:25] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: AHEAD Target: null
+[01:19:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:19:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[01:19:25] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[01:19:25] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: AHEAD Target: null
+[01:19:25] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[01:19:25] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
+[01:19:25] [Forge Version Check/INFO] [forge.VersionCheck]: [nei] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=NotEnoughItems
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[01:19:41] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[01:19:43] [Server thread/INFO] [forestry]: Module EnderIO Module failed to load: EnderIO not found
+[01:19:43] [Server thread/INFO] [forestry]: Module Roots Module failed to load: Roots not found
+[01:19:43] [Server thread/INFO] [forestry]: Module ImmersiveEngineering Module failed to load: ImmersiveEngineering not found
+[01:19:43] [Server thread/INFO] [forestry]: Module Extra Utilities Module failed to load: Extra Utilities not found
+[01:19:43] [Server thread/INFO] [forestry]: Module Better With Mods Module failed to load: Better With Mods not found
+[01:19:43] [Server thread/INFO] [forestry]: Module TechReborn Module failed to load: TechReborn not found
+[01:19:43] [Server thread/INFO] [forestry]: Module BiomesOPlenty Module failed to load: BiomesOPlenty not found
+[01:19:43] [Server thread/INFO] [forestry]: Module HarvestCraft Module failed to load: HarvestCraft not found
+[01:19:43] [Server thread/INFO] [forestry]: Module Mystical Agriculture Module failed to load: Mystical Agriculture not found
+[01:19:43] [Server thread/INFO] [forestry]: Module Natura Module failed to load: Natura not found
+[01:19:43] [Server thread/INFO] [forestry]: Module Actually Additions Module failed to load: Actually Additions not found
+[01:19:43] [Server thread/INFO] [forestry]: Module rustic Module failed to load: Rustic not found
+[01:19:46] [Server thread/INFO] [BuildCraft]: 
+[01:19:46] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.7
+[01:19:46] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
+[01:19:46] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[01:19:46] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[01:19:46] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
+[01:19:46] [Server thread/INFO] [BuildCraft]:   Commit 9a9b21a4571700fb84f507820f8d029c958f523e
+[01:19:46] [Server thread/INFO] [BuildCraft]:     Update bc (3)
+[01:19:46] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[01:19:46] [Server thread/INFO] [BuildCraft]: 
+[01:19:46] [Server thread/INFO] [BuildCraft]: [compat] Module list:
+[01:19:46] [Server thread/INFO] [BuildCraft]: [compat]   + forestry
+[01:19:46] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
+[01:19:46] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
+[01:19:46] [Server thread/INFO] [BuildCraft]: [compat]   + ic2
+[01:19:49] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[01:19:49] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[01:19:49] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Forestry.
+[01:19:49] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[01:19:49] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[01:19:49] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[01:19:49] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Thaumcraft.
+[01:19:51] [Server thread/INFO] [FML]: Applying holder lookups
+[01:19:51] [Server thread/INFO] [FML]: Holder lookups applied
+[01:19:52] [Server thread/INFO] [Backpack]: Loading items...
+[01:19:52] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[01:19:52] [Server thread/INFO] [FML]: Applying holder lookups
+[01:19:52] [Server thread/INFO] [FML]: Holder lookups applied
+[01:19:54] [Server thread/INFO] [FML]: Applying holder lookups
+[01:19:54] [Server thread/INFO] [FML]: Holder lookups applied
+[01:19:54] [Server thread/INFO] [FML]: Applying holder lookups
+[01:19:54] [Server thread/INFO] [FML]: Holder lookups applied
+[01:19:54] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:19:54] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 26.242.57.165:25566
+[01:19:54] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[01:19:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:19:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:19:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:19:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:19:56] [Server thread/INFO] [Backpack]: Loading recipes...
+[01:19:56] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
+[01:19:57] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[01:19:57] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[01:19:58] [Server thread/INFO] [FML]: Applying holder lookups
+[01:19:58] [Server thread/INFO] [FML]: Holder lookups applied
+[01:20:03] [Server thread/INFO] [STDOUT]: [xaero.common.server.XaeroMinimapServer:load:32]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:20:03] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:20:03] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:20:03] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[01:20:03] [Server thread/INFO] [ic2.General]: ic2 version 2.8.221-ex112 loaded.
+[01:20:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[01:20:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[01:20:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[01:20:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[01:20:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[01:20:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[01:20:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[01:20:06] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[01:20:06] [Server thread/INFO] [STDOUT]: [xaero.common.server.XaeroMinimapServer:loadLater:38]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:20:07] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 25 mods
+[01:20:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:20:07] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:20:10] [Server thread/INFO] [FML]: Applying holder lookups
+[01:20:10] [Server thread/INFO] [FML]: Holder lookups applied
+[01:20:10] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5bccbf88)
+[01:20:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 743 advancements
+[01:20:17] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5bccbf88)
+[01:20:18] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[01:20:18] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5bccbf88)
+[01:20:18] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[01:20:18] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@5bccbf88)
+[01:20:18] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[01:20:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:20:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[01:20:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
+[01:20:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 51%
+[01:20:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
+[01:20:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (16.888s)! For help, type "help" or "?"
+[01:20:24] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[01:20:24] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[01:20:24] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[01:20:24] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[01:20:24] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[01:20:24] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:20:24] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[01:20:24] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:20:24] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[01:20:26] [Server thread/INFO] [FML]: Unloading dimension 7
+[01:20:27] [Thread-10/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[01:20:27] [Thread-8/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[01:20:27] [Thread-9/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[01:20:50] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[01:20:50] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 25 mods : minecraft@1.12.2,buildcraftlib@7.99.24.7,baubles@1.5.2,buildcraftsilicon@7.99.24.7,buildcraftenergy@7.99.24.7,jei@4.16.1.302,buildcrafttransport@7.99.24.7,nei@2.4.3,ic2@2.8.221-ex112,buildcraftbuilders@7.99.24.7,xaerominimap@20.28.2,mcp@9.42,buildcraftfactory@7.99.24.7,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,buildcraftcompat@7.99.24.7,xaerominimap_core@1.12.2-1.0,thaumcraft@6.1.BETA26,forge@14.23.5.2854,backpack@3.0.2,codechickenlib@3.2.3.358,twilightforest@3.11.1021,buildcraftcore@7.99.24.7,buildcraftrobotics@7.99.24.7,forestry@5.8.2.387
+[01:20:51] [Netty Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:20:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:20:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: c00lRein[/26.246.179.90:56042] logged in with entity id 93 at (-140.718488507308, 24.0, -1564.3332057266468)
+[01:20:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: c00lRein joined the game
+[01:20:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2586ms behind, skipping 51 tick(s)
+[01:21:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4336ms behind, skipping 86 tick(s)
+[01:22:28] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[01:22:28] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.7,baubles@1.5.2,buildcraftsilicon@7.99.24.7,buildcraftenergy@7.99.24.7,jei@4.16.1.302,buildcrafttransport@7.99.24.7,nei@2.4.3,ic2@2.8.221-ex112,buildcraftbuilders@7.99.24.7,xaerominimap@20.28.2,mcp@9.42,buildcraftfactory@7.99.24.7,xaeroworldmap@1.11.3,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,buildcraftcompat@7.99.24.7,xaerominimap_core@1.12.2-1.0,thaumcraft@6.1.BETA26,forge@14.23.5.2854,xaeroworldmap_core@1.12.2-1.0,backpack@3.0.2,codechickenlib@3.2.3.358,twilightforest@3.11.1021,buildcraftcore@7.99.24.7,buildcraftrobotics@7.99.24.7,forestry@5.8.2.387
+[01:22:28] [Netty Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:22:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:22:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Alikar[/26.242.57.165:64265] logged in with entity id 989 at (-139.42929366718354, 24.0, -1565.2042133077161)
+[01:22:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Alikar joined the game
+[01:22:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2416ms behind, skipping 48 tick(s)
+[01:28:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2583ms behind, skipping 51 tick(s)
+[01:28:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2500ms behind, skipping 50 tick(s)
+[01:31:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2331ms behind, skipping 46 tick(s)
+[01:31:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2318ms behind, skipping 46 tick(s)
+[01:49:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2058ms behind, skipping 41 tick(s)
+[01:58:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2417ms behind, skipping 48 tick(s)
+[02:11:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2504ms behind, skipping 50 tick(s)
+[02:25:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2079ms behind, skipping 41 tick(s)
+[02:42:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2054ms behind, skipping 41 tick(s)
+[03:48:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Alikar lost connection: Disconnected
+[03:48:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Alikar left the game
+[03:48:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: c00lRein lost connection: Disconnected
+[03:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: c00lRein left the game
+[03:48:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:48:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:48:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:48:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:48:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:48:29] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[03:48:29] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:48:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:48:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:48:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
